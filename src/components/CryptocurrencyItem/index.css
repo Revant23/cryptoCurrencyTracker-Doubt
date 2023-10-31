@@ -1,0 +1,46 @@
+/* Write your CSS code here */
+p {
+  color: white;
+}
+.loader {
+  text-align: center;
+}
+
+.CryptoList {
+  display: flex;
+  justify-content: space-between;
+  border-style: solid;
+  border-color: #00e7ff;
+  padding: 30px;
+}
+.CurrencyContainer {
+  display: flex;
+}
+.upper-text {
+  margin-left: 60px;
+}
+
+.common-type-list {
+  margin-top: 30px;
+}
+
+.currency-list {
+  margin-top: 50px;
+}
+
+.logoImage {
+  height: 40px;
+  width: 40px;
+}
+.currency-text {
+  margin-top: 5px;
+  margin-left: 8px;
+}
+
+.Coin-type {
+  display: flex;
+}
+
+li {
+  margin: 20px;
+}
